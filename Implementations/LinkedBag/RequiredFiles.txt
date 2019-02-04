@@ -1,0 +1,15 @@
+BagInterface.java
+
+and one of the following pairings:
+
+LinkedBag1.java
+LinkedBagDemo1.java
+
+LinkedBag2.java
+LinkedBagDemo2.java
+
+LinkedBag.java
+LinkedBagDemo3.java
+
+LinkedBag.java
+LinkedBagDemo.java
